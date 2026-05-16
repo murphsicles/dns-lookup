@@ -1,0 +1,3 @@
+// dns-lookup/src/lib.z — Module entry
+pub use dns_lookup::{lookup_host, lookup_ip, lookup_host_v4, lookup_host_v6, lookup_addr};
+pub use dns_lookup::{IpAddr, LookupError, Result};

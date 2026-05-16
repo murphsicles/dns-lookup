@@ -1,0 +1,10 @@
+[package]
+name = "@net/dns-lookup"
+version = "3.0.1"
+edition = "2026"
+authors = ["The Zeta Foundation <team@z-lang.org>"]
+description = "DNS resolution for Zeta — lookup_host, lookup_ip, reverse DNS for P2P seed node discovery"
+license = "MIT"
+repository = "https://github.com/murphsicles/dns-lookup"
+keywords = ["dns", "dns-lookup", "hostname", "resolution", "networking"]
+categories = ["network::dns"]
